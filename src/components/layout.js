@@ -61,7 +61,16 @@ export default ({ children }) => {
             </div>
             </div>
           </div>
+        <div className={styles.right_buttons}>
+        <div className={styles.right_buttons_wrap}>
+        <div className={styles.right_buttons_button}>
+          <a className={styles.button} href="tel:+447479013235">Call</a>
 
+        </div>
+        </div>
+
+
+        </div>
         </div>
 
       </div>

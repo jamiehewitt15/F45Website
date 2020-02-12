@@ -68,3 +68,30 @@
     vertical-align: middle;
     padding: 0 5px;
 }
+.right_buttons {
+    padding-left: 30px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.right_buttons_wrap {
+    display: table;
+    width: auto;
+    float: right;
+}
+.right_buttons_button {
+    display: table-cell;
+    vertical-align: middle;
+}
+.button{
+    color: #ffffff;
+    background-color: #262273;
+    height: 40px;
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
