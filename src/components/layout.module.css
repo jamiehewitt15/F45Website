@@ -29,7 +29,42 @@
     text-align: left;
 
 }
+.rightmenu {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+}
 .listlink {
     display: inline-block;
     margin-right: 1rem;
+}
+.link {
+    color: #262273;
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 0px;
+}
+.rightcontainer{
+    display: table;
+    text-align: right;
+    width: auto;
+    position: relative;
+    float: right;
+}
+.social_links{
+    padding-left: 30px;
+    display: table-cell;
+    vertical-align: middle;
+    line-height: 0;
+}
+.social_links_wrap {
+    display: table;
+    width: auto;
+}
+.social_links_item {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 5px;
 }

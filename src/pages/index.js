@@ -14,6 +14,8 @@ export default () => (
     </p>
     </div>
       <h1>Hello Gatsby!</h1>
+      <h2>Test 2</h2>
+      <h3>Test 3</h3>
       <p>What a world.</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
     </div>
